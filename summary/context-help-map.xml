@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="introduction" path="leaning_points/b1_t3_learningpoints.html"/>
+   <appContext helpID="how_colinisation_works"
+               path="introduction/b1_t3_introduction.html"/>
+   <appContext helpID="how_colinisation_works"
+               path="introduction/b1_t3_introduction.html"/>
+   <appContext helpID="process_colonisation"
+               path="Colonisation/process_colonisation.html"/>
+   <appContext helpID="how_colinisation_works"
+               path="introduction/b1_t3_introduction.html"/>
+   <appContext helpID="linguistic_consequences"
+               path="b1_t3_linguistic_consequences.html"/>
+   <appContext helpID="how_colinisation_works"
+               path="introduction/b1_t3_introduction.html"/>
+   <appContext helpID="development_stages_of_an_english_variety"
+               path="varieties/b1_t3_varieties_development_process.html"/>
+   <appContext helpID="process_colonisation"
+               path="Colonisation/process_colonisation.html"/>
+   <appContext helpID="step_1_colonisation"
+               path="Colonisation/step_1_colonisation.html"/>
+   <appContext helpID="step_2_political_incorporation"
+               path="Colonisation/step_2_political_incorporation.html"/>
+   <appContext helpID="step_3_nationalist_reaction"
+               path="Colonisation/step_3_nationalist_reaction.html"/>
+   <appContext helpID="case_studies" path="case_studies.html"/>
+   <appContext helpID="development_stages_of_an_english_variety"
+               path="varieties/b1_t3_varieties_development_process.html"/>
+   <appContext helpID="b1_t3_factsheet" path="varieties/b1_t3_factsheet.html"/>
+   <appContext helpID="b1_t3_language_contact"
+               path="varieties/b1_t3_language_contact.html"/>
+   <appContext helpID="b1_t3_development_stages"
+               path="varieties/b1_t3_development_stages.html"/>
+   <appContext helpID="b1_t3_dialect_levelling_and_internal_variation"
+               path="varieties/b1_t3_dialect_levelling_and_internal_variation.html"/>
+   <appContext helpID="b1_t3_codification_of_new_variety"
+               path="varieties/b1_t3_codification_of_new_variety.html"/>
+   <appContext helpID="b1_t3_linguistic_situations"
+               path="varieties/b1_t3_linguistic_situations.html"/>
+   <appContext helpID="b1_t3_paradoxical_development_of_english"
+               path="varieties/b1_t3_paradoxical_development_of_english.html"/>
+   <appContext helpID="language_teaching" path="language_teaching.html"/>
+   <appContext helpID="b1_t3_english_political_tool"
+               path="b1_t3_english_political_tool.html"/>
+   <appContext helpID="b1_t3_english_teaching_elt"
+               path="b1_t3_lang_policies_and_english_teaching_elt.html"/>
+   <appContext helpID="english_as_a_universal_language"
+               path="b1_t3_universal_language.html"/>
+</map>
