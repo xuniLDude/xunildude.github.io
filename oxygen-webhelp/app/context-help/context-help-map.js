@@ -1,1 +1,0 @@
-define(function() { return [{"appname":"", "appid":"toolk_word_classes_3", "path":"toolk_word_classes_3.html"},{"appname":"", "appid":"toolk_word_building_4", "path":"toolk_word_building_4.html"}]});
