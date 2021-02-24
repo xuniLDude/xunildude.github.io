@@ -1,49 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="introduction" path="leaning_points/b1_t3_learningpoints.html"/>
+   <appContext helpID="b1_t3_3_colonial_language_parent"
+               path="book1_topic_3_colonial_language/b1_t3_3_colonial_language_parent.html"/>
+   <appContext helpID="introduction"
+               path="book1_topic_3_colonial_language/leaning_points/b1_t3_learningpoints.html"/>
    <appContext helpID="how_colinisation_works"
-               path="introduction/b1_t3_introduction.html"/>
-   <appContext helpID="how_colinisation_works"
-               path="introduction/b1_t3_introduction.html"/>
+               path="book1_topic_3_colonial_language/introduction/b1_t3_introduction.html"/>
    <appContext helpID="process_colonisation"
-               path="Colonisation/process_colonisation.html"/>
-   <appContext helpID="how_colinisation_works"
-               path="introduction/b1_t3_introduction.html"/>
-   <appContext helpID="linguistic_consequences"
-               path="b1_t3_linguistic_consequences.html"/>
-   <appContext helpID="how_colinisation_works"
-               path="introduction/b1_t3_introduction.html"/>
-   <appContext helpID="development_stages_of_an_english_variety"
-               path="varieties/b1_t3_varieties_development_process.html"/>
-   <appContext helpID="process_colonisation"
-               path="Colonisation/process_colonisation.html"/>
+               path="book1_topic_3_colonial_language/Colonisation/process_colonisation.html"/>
    <appContext helpID="step_1_colonisation"
-               path="Colonisation/step_1_colonisation.html"/>
+               path="book1_topic_3_colonial_language/Colonisation/step_1_colonisation.html"/>
    <appContext helpID="step_2_political_incorporation"
-               path="Colonisation/step_2_political_incorporation.html"/>
+               path="book1_topic_3_colonial_language/Colonisation/step_2_political_incorporation.html"/>
    <appContext helpID="step_3_nationalist_reaction"
-               path="Colonisation/step_3_nationalist_reaction.html"/>
-   <appContext helpID="case_studies" path="case_studies.html"/>
+               path="book1_topic_3_colonial_language/Colonisation/step_3_nationalist_reaction.html"/>
+   <appContext helpID="case_studies"
+               path="book1_topic_3_colonial_language/case_studies.html"/>
    <appContext helpID="development_stages_of_an_english_variety"
-               path="varieties/b1_t3_varieties_development_process.html"/>
-   <appContext helpID="b1_t3_factsheet" path="varieties/b1_t3_factsheet.html"/>
-   <appContext helpID="b1_t3_language_contact"
-               path="varieties/b1_t3_language_contact.html"/>
+               path="book1_topic_3_colonial_language/varieties/b1_t3_varieties_development_process.html"/>
+   <appContext helpID="b1_t3_factsheet"
+               path="book1_topic_3_colonial_language/varieties/b1_t3_factsheet.html"/>
    <appContext helpID="b1_t3_development_stages"
-               path="varieties/b1_t3_development_stages.html"/>
+               path="book1_topic_3_colonial_language/varieties/b1_t3_development_stages.html"/>
+   <appContext helpID="b1_t3_language_contact"
+               path="book1_topic_3_colonial_language/varieties/b1_t3_language_contact.html"/>
    <appContext helpID="b1_t3_dialect_levelling_and_internal_variation"
-               path="varieties/b1_t3_dialect_levelling_and_internal_variation.html"/>
+               path="book1_topic_3_colonial_language/varieties/b1_t3_dialect_levelling_and_internal_variation.html"/>
    <appContext helpID="b1_t3_codification_of_new_variety"
-               path="varieties/b1_t3_codification_of_new_variety.html"/>
+               path="book1_topic_3_colonial_language/varieties/b1_t3_codification_of_new_variety.html"/>
    <appContext helpID="b1_t3_linguistic_situations"
-               path="varieties/b1_t3_linguistic_situations.html"/>
+               path="book1_topic_3_colonial_language/varieties/b1_t3_substrate_pidgin_creole.html"/>
+   <appContext helpID="black_english"
+               path="book1_topic_3_colonial_language/varieties/black_english.html"/>
    <appContext helpID="b1_t3_paradoxical_development_of_english"
-               path="varieties/b1_t3_paradoxical_development_of_english.html"/>
-   <appContext helpID="language_teaching" path="language_teaching.html"/>
+               path="book1_topic_3_colonial_language/varieties/b1_t3_paradoxical_development_of_english.html"/>
+   <appContext helpID="language_teaching"
+               path="book1_topic_3_colonial_language/language_teaching.html"/>
    <appContext helpID="b1_t3_english_political_tool"
-               path="b1_t3_english_political_tool.html"/>
+               path="book1_topic_3_colonial_language/b1_t3_english_political_tool.html"/>
    <appContext helpID="b1_t3_english_teaching_elt"
-               path="b1_t3_lang_policies_and_english_teaching_elt.html"/>
+               path="book1_topic_3_colonial_language/b1_t3_lang_policies_and_english_teaching_elt.html"/>
    <appContext helpID="english_as_a_universal_language"
-               path="b1_t3_universal_language.html"/>
+               path="book1_topic_3_colonial_language/b1_t3_universal_language.html"/>
+   <appContext helpID="b1_t4_global_language"
+               path="b1t4_globallanguage/b1-t4-global_language.html"/>
+   <appContext helpID="b1_t4_introduction_1"
+               path="b1t4_globallanguage/b1-t4-introduction_1.html"/>
+   <appContext helpID="b1_t4_details_1"
+               path="b1t4_globallanguage/b1-t4-details_1.html"/>
 </map>
