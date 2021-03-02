@@ -44,8 +44,53 @@
                path="book1_topic_3_colonial_language/b1_t3_universal_language.html"/>
    <appContext helpID="b1_t4_global_language"
                path="b1t4_globallanguage/b1-t4-global_language.html"/>
-   <appContext helpID="b1_t4_introduction_1"
-               path="b1t4_globallanguage/b1-t4-introduction_1.html"/>
-   <appContext helpID="b1_t4_details_1"
-               path="b1t4_globallanguage/b1-t4-details_1.html"/>
+   <appContext helpID="b1_t4_statistics"
+               path="b1t4_globallanguage/b1-t4-statistics.html"/>
+   <appContext helpID="global_spread" path="b1t4_globallanguage/global_spread.html"/>
+   <appContext helpID="b1_t4_lingua_franca"
+               path="b1t4_globallanguage/b1-t4-lingua_franca.html"/>
+   <appContext helpID="b1_t4_emergence_as_global_language"
+               path="b1t4_globallanguage/b1-t4-emergence_as_global_language.html"/>
+   <appContext helpID="globalisation" path="b1t4_globallanguage/globalisation.html"/>
+   <appContext helpID="b1_t4_english_and_globalization"
+               path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>
+   <appContext helpID="b1_t4_english_and_globalization_processes"
+               path="b1t4_globallanguage/b1-t4-english_and_globalization_processes.html"/>
+   <appContext helpID="future" path="b1t4_globallanguage/future.html"/>
+   <appContext helpID="b1_t4_role_of_english"
+               path="b1t4_globallanguage/b1-t4-role_of_english.html"/>
+   <appContext helpID="b1_t4_the_future_of_english"
+               path="b1t4_globallanguage/b1-t4-the_future_of_english.html"/>
+   <appContext helpID="b1_t4_english_family_of_languages"
+               path="b1t4_globallanguage/b1-t4-english_family_of_languages.html"/>
+   <appContext helpID="globalisation" path="b1t4_globallanguage/globalisation.html"/>
+   <appContext helpID="b1_t4_english_and_globalization"
+               path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>
+   <appContext helpID="b1_t4_english_and_globalization_processes"
+               path="b1t4_globallanguage/b1-t4-english_and_globalization_processes.html"/>
+   <appContext helpID="global_spread" path="b1t4_globallanguage/global_spread.html"/>
+   <appContext helpID="b1_t4_lingua_franca"
+               path="b1t4_globallanguage/b1-t4-lingua_franca.html"/>
+   <appContext helpID="b1_t4_emergence_as_global_language"
+               path="b1t4_globallanguage/b1-t4-emergence_as_global_language.html"/>
+   <appContext helpID="b1_t4_english_and_globalization"
+               path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>
+   <appContext helpID="b1_t4_english_and_globalization_processes"
+               path="b1t4_globallanguage/b1-t4-english_and_globalization_processes.html"/>
+   <appContext helpID="b1_t4_role_of_english"
+               path="b1t4_globallanguage/b1-t4-role_of_english.html"/>
+   <appContext helpID="b1_t4_statistics"
+               path="b1t4_globallanguage/b1-t4-statistics.html"/>
+   <appContext helpID="b1_t4_emergence_as_global_language"
+               path="b1t4_globallanguage/b1-t4-emergence_as_global_language.html"/>
+   <appContext helpID="b1_t4_english_and_globalization"
+               path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>
+   <appContext helpID="b1_t4_role_of_english"
+               path="b1t4_globallanguage/b1-t4-role_of_english.html"/>
+   <appContext helpID="b1_t4_lingua_franca"
+               path="b1t4_globallanguage/b1-t4-lingua_franca.html"/>
+   <appContext helpID="b1_t4_english_family_of_languages"
+               path="b1t4_globallanguage/b1-t4-english_family_of_languages.html"/>
+   <appContext helpID="b1_t4_the_future_of_english"
+               path="b1t4_globallanguage/b1-t4-the_future_of_english.html"/>
 </map>
