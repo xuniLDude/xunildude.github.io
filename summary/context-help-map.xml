@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="_2_national_language"
+               path="Nationallanguage/2_national_language.html"/>
+   <appContext helpID="b1t2_english_as_a_product"
+               path="Nationallanguage/b1_t2_english_as_a_product.html"/>
+   <appContext helpID="b1t2_history" path="Nationallanguage/b1_t2_history.html"/>
+   <appContext helpID="t1t4_linguistic_development"
+               path="Nationallanguage/t1t2_linguistic_development.html"/>
+   <appContext helpID="b1t4_periods_and_development"
+               path="Nationallanguage/b1_t2_periods_and_development.html"/>
+   <appContext helpID="b1t2_standardization"
+               path="Nationallanguage/b1t2_standardization.html"/>
+   <appContext helpID="b1t2_standardization_purpose"
+               path="Nationallanguage/b1t2_standardization_purpose.html"/>
+   <appContext helpID="b1t2_standardization_dialect_selection"
+               path="Nationallanguage/b1t2_standardization_dialect_selection.html"/>
+   <appContext helpID="b1t2_standardization_haugen_model"
+               path="Nationallanguage/b1t2_standardization_haugen_model.html"/>
+   <appContext helpID="standardizing_english"
+               path="Nationallanguage/b1t2_standardizing_english.html"/>
    <appContext helpID="b1_t3_3_colonial_language_parent"
                path="book1_topic_3_colonial_language/b1_t3_3_colonial_language_parent.html"/>
    <appContext helpID="introduction"
@@ -56,6 +75,8 @@
                path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>
    <appContext helpID="b1_t4_english_and_globalization_processes"
                path="b1t4_globallanguage/b1-t4-english_and_globalization_processes.html"/>
+   <appContext helpID="globalisation_linguistic_consequences"
+               path="b1t4_globallanguage/globalisation_linguistic_consequences.html"/>
    <appContext helpID="future" path="b1t4_globallanguage/future.html"/>
    <appContext helpID="b1_t4_role_of_english"
                path="b1t4_globallanguage/b1-t4-role_of_english.html"/>
@@ -63,6 +84,20 @@
                path="b1t4_globallanguage/b1-t4-the_future_of_english.html"/>
    <appContext helpID="b1_t4_english_family_of_languages"
                path="b1t4_globallanguage/b1-t4-english_family_of_languages.html"/>
+   <appContext helpID="global_analysis" path="GlobalAnalaysis/global_analysis.html"/>
+   <appContext helpID="b1_t4_role_of_english"
+               path="b1t4_globallanguage/b1-t4-role_of_english.html"/>
+   <appContext helpID="standardization" path="GlobalAnalaysis/standardization.html"/>
+   <appContext helpID="b1t2_standardization"
+               path="Nationallanguage/b1t2_standardization.html"/>
+   <appContext helpID="b1t2_standardization_haugen_model"
+               path="Nationallanguage/b1t2_standardization_haugen_model.html"/>
+   <appContext helpID="standardizing_english"
+               path="Nationallanguage/b1t2_standardizing_english.html"/>
+   <appContext helpID="t1t4_linguistic_development"
+               path="Nationallanguage/t1t2_linguistic_development.html"/>
+   <appContext helpID="globalisation_linguistic_consequences"
+               path="b1t4_globallanguage/globalisation_linguistic_consequences.html"/>
    <appContext helpID="globalisation" path="b1t4_globallanguage/globalisation.html"/>
    <appContext helpID="b1_t4_english_and_globalization"
                path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>

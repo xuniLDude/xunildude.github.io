@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Globalisation - Linguistic consequences","shortdesc":"<p class=\"shortdesc\">Linguistic consqquences.<\/p>","href":"b1t4_globallanguage\/globalisation_linguistic_consequences_2.html","attributes":{"data-id":"globalisation_linguistic_consequences"},"menu":{"hasChildren":false},"tocID":"globalisation_linguistic_consequences-d481e569","topics":[]}]});
