@@ -2,4 +2,7 @@
 <map>
    <appContext helpID="toolk_word_classes_3" path="toolk_word_classes_3.html"/>
    <appContext helpID="toolk_word_building_4" path="toolk_word_building_4.html"/>
+   <appContext helpID="_5_words_that_go_together_idioms"
+               path="5_words_that_go_together_idioms.html"/>
+   <appContext helpID="collocation" path="gloss/gloss_collocation.html"/>
 </map>
