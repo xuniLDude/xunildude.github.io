@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Expanding circle and Euro English","shortdesc":"<p class=\"shortdesc\"\/>","href":"englishes\/expanding_circle_and_euro_english.html","attributes":{"data-id":"b1t5_expanding_circle_and_euro_english"},"menu":{"hasChildren":false},"tocID":"b1t5_expanding_circle_and_euro_english-d636e851","topics":[]}]});

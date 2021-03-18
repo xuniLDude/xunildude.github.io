@@ -4,5 +4,14 @@
    <appContext helpID="toolk_word_building_4" path="toolk_word_building_4.html"/>
    <appContext helpID="_5_words_that_go_together_idioms"
                path="5_words_that_go_together_idioms.html"/>
+   <appContext helpID="_6_lexical_variation"
+               path="6_lexical_variation/6_lexical_variation.html"/>
+   <appContext helpID="c_6_style" path="6_lexical_variation/c_6_style.html"/>
+   <appContext helpID="global_dialect_disappearance"
+               path="6_lexical_variation/c_global_dialect_disappearance.html"/>
    <appContext helpID="collocation" path="gloss/gloss_collocation.html"/>
+   <appContext helpID="gloss_synonym" path="gloss/gloss_synonym.html"/>
+   <appContext helpID="_6_lexical_variation"
+               path="6_lexical_variation/6_lexical_variation.html"/>
+   <appContext helpID="c_6_style" path="6_lexical_variation/c_6_style.html"/>
 </map>

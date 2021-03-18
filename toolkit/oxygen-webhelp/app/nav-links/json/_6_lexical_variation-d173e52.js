@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Style","shortdesc":"<p class=\"shortdesc\">Differences between synonyms can be one of style. Formal and informal settings both         use require different styles.<\/p>","href":"6_lexical_variation\/c_6_style.html","attributes":{"data-id":"c_6_style"},"menu":{"hasChildren":false},"tocID":"c_6_style-d173e65","topics":[]}]});

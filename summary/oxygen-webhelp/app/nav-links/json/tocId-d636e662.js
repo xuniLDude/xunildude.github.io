@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Dialectal boundaries","shortdesc":"<p class=\"shortdesc\">Geographical boundaries of particular linguistics features, represented by lines on a         dialect map.<\/p>","href":"development\/geography\/isoglosses.html","attributes":{"data-id":"isoglosses"},"menu":{"hasChildren":false},"tocID":"isoglosses-d636e663","topics":[]}]});
