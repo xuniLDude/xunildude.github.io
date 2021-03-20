@@ -43,18 +43,22 @@
                path="book1_topic_3_colonial_language/varieties/b1_t3_factsheet.html"/>
    <appContext helpID="b1_t3_development_stages"
                path="book1_topic_3_colonial_language/varieties/b1_t3_development_stages.html"/>
-   <appContext helpID="b1_t3_language_contact"
-               path="book1_topic_3_colonial_language/varieties/b1_t3_language_contact.html"/>
    <appContext helpID="b1_t3_dialect_levelling_and_internal_variation"
                path="book1_topic_3_colonial_language/varieties/b1_t3_dialect_levelling_and_internal_variation.html"/>
+   <appContext helpID="superstrate_and_subtrate_languages"
+               path="development/substrate_superstrate/superstrate_and_subtrate_languages.html"/>
+   <appContext helpID="b1_t3_language_contact"
+               path="book1_topic_3_colonial_language/varieties/b1_t3_language_contact.html"/>
    <appContext helpID="b1_t3_codification_of_new_variety"
                path="book1_topic_3_colonial_language/varieties/b1_t3_codification_of_new_variety.html"/>
-   <appContext helpID="b1_t3_linguistic_situations"
-               path="book1_topic_3_colonial_language/varieties/b1_t3_substrate_pidgin_creole.html"/>
+   <appContext helpID="formation_of_a_dialect"
+               path="development/formation/formation_of_a_dialect.html"/>
    <appContext helpID="black_english"
                path="book1_topic_3_colonial_language/varieties/black_english.html"/>
    <appContext helpID="b1_t3_paradoxical_development_of_english"
                path="book1_topic_3_colonial_language/varieties/b1_t3_paradoxical_development_of_english.html"/>
+   <appContext helpID="b1_t3_linguistic_situations"
+               path="book1_topic_3_colonial_language/varieties/b1_t3_substrate_pidgin_creole.html"/>
    <appContext helpID="language_teaching"
                path="book1_topic_3_colonial_language/language_teaching.html"/>
    <appContext helpID="b1_t3_english_political_tool"
@@ -86,6 +90,36 @@
                path="b1t4_globallanguage/b1-t4-the_future_of_english.html"/>
    <appContext helpID="b1_t4_english_family_of_languages"
                path="b1t4_globallanguage/b1-t4-english_family_of_languages.html"/>
+   <appContext helpID="_5_english_and_englishes" path="5_english_and_englishes.html"/>
+   <appContext helpID="b1_t3_development_stages"
+               path="book1_topic_3_colonial_language/varieties/b1_t3_development_stages.html"/>
+   <appContext helpID="b1_t3_dialect_levelling_and_internal_variation"
+               path="book1_topic_3_colonial_language/varieties/b1_t3_dialect_levelling_and_internal_variation.html"/>
+   <appContext helpID="formation_of_a_dialect"
+               path="development/formation/formation_of_a_dialect.html"/>
+   <appContext helpID="b1t5_describing_english"
+               path="analysis/describing_english/_c_describing_english.html"/>
+   <appContext helpID="linguistic_analysis_areas"
+               path="analysis/describing_english/linguistic_analysis_areas.html"/>
+   <appContext helpID="b1t5_lexical_set"
+               path="analysis/describing_english/c_lexical_set.html"/>
+   <appContext helpID="problems_describing_english"
+               path="analysis/describing_english/problems_describing_english.html"/>
+   <appContext helpID="isoglosses" path="development/geography/isoglosses.html"/>
+   <appContext helpID="cp_types_of_englishes"
+               path="englishes/_c_types_of_englishes.html"/>
+   <appContext helpID="c_uk" path="englishes/_c_uk.html"/>
+   <appContext helpID="b1t5_scottish_english" path="englishes/scottish_english.html"/>
+   <appContext helpID="b1t5_scottish_english" path="englishes/welsh_english.html"/>
+   <appContext helpID="c_black_country_english"
+               path="englishes/c_black_country_english.html"/>
+   <appContext helpID="b1t5_irish_english" path="englishes/irish_english.html"/>
+   <appContext helpID="b1t5_american_english" path="englishes/american_english.html"/>
+   <appContext helpID="c_american_vernacular_english_aaev"
+               path="englishes/c_american_vernacular_english_aaev.html"/>
+   <appContext helpID="b1t5_indian_english" path="englishes/indian_english.html"/>
+   <appContext helpID="b1t5_expanding_circle_and_euro_english"
+               path="englishes/expanding_circle_and_euro_english.html"/>
    <appContext helpID="global_analysis" path="GlobalAnalaysis/global_analysis.html"/>
    <appContext helpID="b1_t4_role_of_english"
                path="b1t4_globallanguage/b1-t4-role_of_english.html"/>
@@ -104,42 +138,10 @@
                path="b1t4_globallanguage/globalisation_linguistic_consequences.html"/>
    <appContext helpID="global_dialect_disappearance"
                path="GlobalAnalaysis/global_dialect_disappearance.html"/>
-   <appContext helpID="" path="pidgin_creoles/pidgins_and_creoles.html"/>
    <appContext helpID="b1_t3_linguistic_situations"
                path="book1_topic_3_colonial_language/varieties/b1_t3_substrate_pidgin_creole.html"/>
-   <appContext helpID="_5_english_and_englishes" path="5_english_and_englishes.html"/>
-   <appContext helpID="formation_of_a_dialect"
-               path="development/formation/formation_of_a_dialect.html"/>
-   <appContext helpID="why_varities_disappear"
-               path="development/disappearance/why_varities_disappear.html"/>
-   <appContext helpID="isoglosses" path="development/geography/isoglosses.html"/>
-   <appContext helpID="b1t5_describing_english"
-               path="analysis/describing_english/_c_describing_english.html"/>
-   <appContext helpID="problems_describing_english"
-               path="analysis/describing_english/problems_describing_english.html"/>
-   <appContext helpID="b1t5_lexical_set"
-               path="analysis/describing_english/c_lexical_set.html"/>
-   <appContext helpID="linguistic_analysis_areas"
-               path="analysis/describing_english/linguistic_analysis_areas.html"/>
-   <appContext helpID="cp_types_of_englishes"
-               path="englishes/_c_types_of_englishes.html"/>
-   <appContext helpID="c_uk" path="englishes/_c_uk.html"/>
-   <appContext helpID="b1t5_irish_english" path="englishes/irish_english.html"/>
-   <appContext helpID="b1t5_scottish_english" path="englishes/scottish_english.html"/>
-   <appContext helpID="dialectal_comparison"
-               path="englishes/dialectal_comparison.html"/>
-   <appContext helpID="c_inner_circle" path="englishes/_c_inner_circle.html"/>
-   <appContext helpID="b1t5_american_english" path="englishes/american_english.html"/>
-   <appContext helpID="b1t5_australian_english"
-               path="englishes/australian_english.html"/>
-   <appContext helpID="b1t5_new_zealand_english"
-               path="englishes/new_zealand_english.html"/>
-   <appContext helpID="c_outer_circle" path="englishes/_c_outer_circle.html"/>
-   <appContext helpID="b1t5_african_english" path="englishes/african_english.html"/>
-   <appContext helpID="b1t5_indian_english" path="englishes/indian_english.html"/>
-   <appContext helpID="c_expanding_circle" path="englishes/_c_expanding_circle.html"/>
-   <appContext helpID="b1t5_expanding_circle_and_euro_english"
-               path="englishes/expanding_circle_and_euro_english.html"/>
+   <appContext helpID="superstrate_and_subtrate_languages"
+               path="development/substrate_superstrate/superstrate_and_subtrate_languages.html"/>
    <appContext helpID="globalisation" path="b1t4_globallanguage/globalisation.html"/>
    <appContext helpID="b1_t4_english_and_globalization"
                path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>
@@ -184,4 +186,12 @@
                path="analysis/describing_english/problems_describing_english.html"/>
    <appContext helpID="b1t5_lexical_set"
                path="analysis/describing_english/c_lexical_set.html"/>
+   <appContext helpID="b1t5_describing_english"
+               path="analysis/describing_english/_c_describing_english.html"/>
+   <appContext helpID="b1t5_lexical_set"
+               path="analysis/describing_english/c_lexical_set.html"/>
+   <appContext helpID="linguistic_analysis_areas"
+               path="analysis/describing_english/linguistic_analysis_areas.html"/>
+   <appContext helpID="problems_describing_english"
+               path="analysis/describing_english/problems_describing_english.html"/>
 </map>
