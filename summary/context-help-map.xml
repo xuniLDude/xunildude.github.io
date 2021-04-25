@@ -90,6 +90,12 @@
                path="b1t4_globallanguage/b1-t4-the_future_of_english.html"/>
    <appContext helpID="b1_t4_english_family_of_languages"
                path="b1t4_globallanguage/b1-t4-english_family_of_languages.html"/>
+   <appContext helpID="c_linguafranca"
+               path="development/linguafranca/_linguafranca.html"/>
+   <appContext helpID="c_linguafranca"
+               path="development/linguafranca/c_linguafranca_why.html"/>
+   <appContext helpID="b1_t4_statistics"
+               path="b1t4_globallanguage/b1-t4-statistics.html"/>
    <appContext helpID="_5_english_and_englishes" path="5_english_and_englishes.html"/>
    <appContext helpID="b1_t3_development_stages"
                path="book1_topic_3_colonial_language/varieties/b1_t3_development_stages.html"/>
@@ -120,6 +126,40 @@
    <appContext helpID="b1t5_indian_english" path="englishes/indian_english.html"/>
    <appContext helpID="b1t5_expanding_circle_and_euro_english"
                path="englishes/expanding_circle_and_euro_english.html"/>
+   <appContext helpID="_6_english_and_other_languages"
+               path="6_english_and_other_languages.html"/>
+   <appContext helpID="language_encounter"
+               path="language_exposure/language_encounter.html"/>
+   <appContext helpID="feeling_and_attitude" path="attitude/feeling_and_attitude.html"/>
+   <appContext helpID="language_policy" path="language_policy/language_policy.html"/>
+   <appContext helpID="language_policy_and_planning"
+               path="language_policy/language_policy_and_planning.html"/>
+   <appContext helpID="language_policy_examples"
+               path="language_policy/language_policy_examples.html"/>
+   <appContext helpID="code_switching"
+               path="bilingualism/codeswitching/_code_switching.html"/>
+   <appContext helpID="codeswitch_howtoswitch"
+               path="bilingualism/codeswitching/codeswitch_howtoswitch.html"/>
+   <appContext helpID="codeswitch_reasons_for_switching"
+               path="bilingualism/codeswitching/codeswitch_reasons_for_switching.html#codeswitch_reasons_for_switching"/>
+   <appContext helpID="codeswitch_interpersonal_functions"
+               path="bilingualism/codeswitching/codeswitch_reasons_for_switching.html#codeswitch_interpersonal_functions"/>
+   <appContext helpID="codeswitch_pragmatic_functions"
+               path="bilingualism/codeswitching/codeswitch_reasons_for_switching.html#codeswitch_pragmatic_functions"/>
+   <appContext helpID="codeswitch_rhetorical_functions"
+               path="bilingualism/codeswitching/codeswitch_reasons_for_switching.html#codeswitch_rhetorical_functions"/>
+   <appContext helpID="stylistic_function"
+               path="bilingualism/codeswitching/codeswitch_reasons_for_switching.html#stylistic_function"/>
+   <appContext helpID="codeswitch_example_contexts"
+               path="bilingualism/codeswitching/codeswitch_example_contexts.html"/>
+   <appContext helpID="codeswitch_hybridcode"
+               path="bilingualism/codeswitching/codeswitch_hybridcode.html"/>
+   <appContext helpID="opinions_and_case_studies"
+               path="bilingualism/codeswitching/casestudies/opinions_and_case_studies.html#opinions_and_case_studies"/>
+   <appContext helpID="c_case_study_tamil"
+               path="bilingualism/codeswitching/casestudies/opinions_and_case_studies.html#c_case_study_tamil"/>
+   <appContext helpID="c_case_study_japanese"
+               path="bilingualism/codeswitching/casestudies/opinions_and_case_studies.html#c_case_study_japanese"/>
    <appContext helpID="global_analysis" path="GlobalAnalaysis/global_analysis.html"/>
    <appContext helpID="b1_t4_role_of_english"
                path="b1t4_globallanguage/b1-t4-role_of_english.html"/>
@@ -142,6 +182,7 @@
                path="book1_topic_3_colonial_language/varieties/b1_t3_substrate_pidgin_creole.html"/>
    <appContext helpID="superstrate_and_subtrate_languages"
                path="development/substrate_superstrate/superstrate_and_subtrate_languages.html"/>
+   <appContext helpID="feeling_and_attitude" path="attitude/feeling_and_attitude.html"/>
    <appContext helpID="globalisation" path="b1t4_globallanguage/globalisation.html"/>
    <appContext helpID="b1_t4_english_and_globalization"
                path="b1t4_globallanguage/b1-t4-english_and_globalization.html"/>
